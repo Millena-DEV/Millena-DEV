@@ -14,8 +14,10 @@
 
 
 ### Sobre mim
-- 🔭 Entusiasta e apaixonada por Java
+- 🔭 Entusiasta e apaixonada por programar, gosto de desafios;
 - 🌱 Atualmente estou estudando Java, mais especificamente o ambiente Spring
+- ![image](https://github.com/Millena-DEV/Millena-DEV/assets/82294729/41b91d9a-268a-4669-9305-917ada48b7cd) tenho conhecimentos em PHP
+
 - 🤔 Adoro ajudar! Se tiver alguma dúvida, não deixe de me procurar
 - 📫 Me chama no Linkedin! <a href="https://www.linkedin.com/in/millena-gon%C3%A7alves-5078691ba/">AQUI</a>
 <p align="left">
