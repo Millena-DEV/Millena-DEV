@@ -15,7 +15,7 @@
 
 ### Sobre mim
 - 🔭 Entusiasta e apaixonada por programar, gosto de desafios;
-- 🌱 Atualmente estou trabalhando na Sempre Tecnologia
+- 🌱 Atualmente estou desenvolvendo um projeto com React e node.js
 - 🤔 Adoro ajudar! Se tiver alguma dúvida, não deixe de me procurar
 - 📫 Me chama no Linkedin! <a href="https://www.linkedin.com/in/millena-gon%C3%A7alves-5078691ba/">AQUI</a>
 <p align="left">
