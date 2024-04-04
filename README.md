@@ -38,5 +38,5 @@
   <img src="https://github.com/Millena-DEV/Millena-DEV/assets/82294729/30598b82-52ac-4d6b-a60c-1208d484a9f1" width="50"/>
   <img src="https://github.com/Millena-DEV/Millena-DEV/assets/82294729/75c7d917-eac8-4c71-9343-ab27b7e0e9f4" width="50"/>
   <img src="https://github.com/Millena-DEV/Millena-DEV/assets/82294729/52144be2-51f4-4b1d-a029-b97e2cc3aafb" width="50"/>
-  <img src="https://github.com/Millena-DEV/Millena-DEV/https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png)" width="50"/>
+  <img src="https://github.com/Millena-DEV/Millena-DEV/assets/82294729/fda0824d-1df8-461e-b85b-d97ad01c09e4" width="50"/>
 </p>
